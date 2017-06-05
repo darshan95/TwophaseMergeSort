@@ -312,4 +312,5 @@ int main(int argc,char *argv[])
     double elapsed_secs = double(end - begin) / CLOCKS_PER_SEC;
     cout << elapsed_secs << endl;
     return 0;
+    //a sample change made for git
 }
